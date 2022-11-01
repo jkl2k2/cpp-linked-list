@@ -1,2 +1,2 @@
 # cpp-linked-list
-### A linked-list implemented in C++
+### A recursive linked-list implemented in C++
